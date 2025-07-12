@@ -1,7 +1,7 @@
 # 🎯 Customer Segmentation using RFM analysis <br>
 
 **Libraries:** `scikit-learn`, `matplotlib`, `seaborn`, `plotly.express`, `geopandas` <br>
-**Dataset:** proprietary, annoymised customer-level booking data (2024)<br> <br>
+**Dataset:** proprietary, annoymised customer-level booking data <br> <br>
 
 This project explores customer segmentation for the fictional hospitality brand XYZ Entertainment Center, aiming to identify customers most likely to respond to targeted promotions that encourage weekday bookings. <br> <br>
 
