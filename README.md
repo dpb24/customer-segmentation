@@ -17,6 +17,7 @@ This project explores customer segmentation for the fictional hospitality brand 
  - Developed a segmentation-informed campaign recommendation framework for weekday growth <br> <br>
 
 📖 Jupyter Notebook: [GitHub](https://github.com/dpb24/customer-segmentation/blob/main/notebooks/Customer_Segmentation_for_XYZ_Entertainment.ipynb) | [CoLab](https://colab.research.google.com/drive/1riolBlBa0T5GyXE4dJXOTh7B0Bq_p01L) <br>
+👨🏻‍🏫 Presentation: [GitHub](https://github.com/dpb24/customer-segmentation/blob/main/reports/Customer_Segmentation_for_XYZ_Entertainment.pdf) <br>
 
 <p align="center">
     <img src="visuals/weekday_totalrevenues-annotated.png" width="800"/> 
