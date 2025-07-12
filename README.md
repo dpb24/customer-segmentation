@@ -19,7 +19,8 @@ This project explores customer segmentation for the fictional hospitality brand 
 📖 Jupyter Notebook: [GitHub](https://github.com/dpb24/customer-segmentation/blob/main/notebooks/Customer_Segmentation_for_XYZ_Entertainment.ipynb) | [CoLab](https://colab.research.google.com/drive/1riolBlBa0T5GyXE4dJXOTh7B0Bq_p01L) <br>
 
 <p align="center">
-    <img src="visuals/3D_RFM_Cluster_Plot.png" width="800"/>
+    <img src="visuals/weekday_totalrevenues-annotated.png" width="800"/> 
     <img src="visuals/elbow_method_and_silhouette_scores.png" width="800"/>
-    <img src="visuals/weekday_totalrevenues-annotated.png" width="800"/>
+    <img src="visuals/3D_RFM_Cluster_Plot.png" width="800"/>
+    <img src="visuals/weekday_bookings_by_cluster.png" width="800"/>
 </p>
