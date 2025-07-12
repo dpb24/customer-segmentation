@@ -16,7 +16,7 @@ This project explores customer segmentation for the fictional hospitality brand 
  - Selected **2** clusters for campaign targeting, covering **56.6%** of the customer base
  - Developed a segmentation-informed campaign recommendation framework for weekday growth <br> <br>
 
-📖 Jupyter Notebook: [GitHub]() | [CoLab]() | [Kaggle]() <br>
+📖 Jupyter Notebook: [GitHub](https://github.com/dpb24/customer-segmentation/blob/main/notebooks/Customer_Segmentation_for_XYZ_Entertainment.ipynb) | [CoLab](https://colab.research.google.com/drive/1riolBlBa0T5GyXE4dJXOTh7B0Bq_p01L) <br>
 
 <p align="center">
     <img src="visuals/3D_RFM_Cluster_Plot.png" width="800"/>
