@@ -22,4 +22,5 @@ This project explores customer segmentation for the fictional hospitality brand 
     <img src="visuals/3D_RFM_Cluster_Plot.png" width="800"/>
     <img src="visuals/elbow_method_and_silhouette_scores.png" width="800"/>
     <img src="visuals/weekday_totalrevenues-annotated.png" width="800"/>
+    <img src="visuals/weekday_bookings_by_cluster.png" width="800"/>
 </p>
